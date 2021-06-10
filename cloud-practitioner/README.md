@@ -1,4 +1,4 @@
-# [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+# [AWS Cloud Practitioner (CLF-C01)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
