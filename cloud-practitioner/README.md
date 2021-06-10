@@ -7,7 +7,7 @@
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
 ## Training Platform
-1. [Exam Readiness Training- AWS Cloud Practitioner](https://www.aws.training/Details/eLearning?id=60697)
+1. [AMAZON- Exam Readiness Training- AWS Cloud Practitioner](https://www.aws.training/Details/eLearning?id=60697)
 2. [A CLOUD GURU- AWS Certified Cloud Practitioner 2020](https://acloud.guru/overview/aws-certified-cloud-practitioner)
 3. [A CLOUD GURU- AWS Certified Cloud Practitioner 2020-Practice Exam](https://learn.acloud.guru/course/aws-certified-cloud-practitioner/learn/summary-and-good-luck/aws-certified-cloud-practitioner/quiz/aws-certified-cloud-practitioner)
 4. [TUTORIALS DOJO- AWS Certified Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
