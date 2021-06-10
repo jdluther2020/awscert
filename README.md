@@ -1,6 +1,6 @@
 # [AWS Certification Exam Center](https://aws.amazon.com/certification/)
 
-I created this site to provide one comprehensive place for everything AWS Certification related, covering all 11 certifications offered by Amazon. Whether you are beginning your AWS Certification journey or in the middle of it, this site will save a ton of your time you generally end up spending exploring and organizing contents before the exam. I've also curated the whitepapers, blogs and other important resources you need in order to pass the exam with confidence and I am constantly tweaking the site to keep it updated with the relevant and the latest contents. Hope you find it useful and visit often to lookup up to date information throughout your certification process. Wish you all the best!!
+I created this site to provide one comprehensive place for everything AWS Certification related, covering all 11 certifications offered by Amazon as of June 2021. Whether you are beginning your AWS Certification journey or in the middle of it, this site will save a ton of your time you generally end up spending exploring and organizing contents before the exam. I've also curated the whitepapers, blogs and other important resources you need in order to pass the exam with confidence and I am constantly tweaking the site to keep it updated with the relevant and the latest contents. Hope you find it useful and visit often to lookup up to date information throughout your certification process. 
 
 1. [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 2. [AWS Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
@@ -13,3 +13,5 @@ I created this site to provide one comprehensive place for everything AWS Certif
 9. [Data Analytics - Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
 10. [Database - Specialty](https://aws.amazon.com/certification/certified-database-specialty/)
 11. [Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
+**Wish you all the best!!**
