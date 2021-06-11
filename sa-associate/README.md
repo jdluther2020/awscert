@@ -14,6 +14,16 @@
 5. [Optional Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20SkillLevel%3A8%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 
 ## Whitepapers
+1. [Overview of AWS](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+2. [How AWS Pricing Works](https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf)
+3. [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+4. [Introduction to AWS Security by Design](https://d1.awsstatic.com/whitepapers/compliance/Intro_to_Security_by_Design.pdf)
+5. [Right Sizing: Provisioning Instances to Match Workloads](https://d1.awsstatic.com/whitepapers/cost-optimization-right-sizing.pdf?did=wp_card&trk=wp_card)
+6. [Overview of Security Processes](https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf?did=wp_card&trk=wp_card)
+7. [Serverless Application Lens](https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf?did=wp_card&trk=wp_card)
+8. [Building a Scalable and Secure Multi-VPC AWS Network](https://d1.awsstatic.com/whitepapers/building-a-scalable-and-secure-multi-vpc-aws-network-infrastructure.pdf?did=wp_card&trk=wp_card)
+9. [ITIL Event Management in the Cloud](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
+10. 
 
 ## FAQs
 
