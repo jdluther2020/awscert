@@ -388,6 +388,6 @@
 [AWS Support FAQ]: https://aws.amazon.com/premiumsupport/faqs/
 
 <!--  ALL  -->
-[All FAQs](https://aws.amazon.com/faqs/)
+[All FAQs]: https://aws.amazon.com/faqs/
 
 <!-- FAQs Ref V1 -->
