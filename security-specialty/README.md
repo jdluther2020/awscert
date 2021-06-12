@@ -8,7 +8,7 @@
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
 ## Training Platform
-1. [AMAZON- Exam Readiness Training- Security - Specialty - Professional](https://www.aws.training/Details/eLearning?id=34786)
+1. [AMAZON- Exam Readiness Training- Security - Specialty](https://www.aws.training/Details/eLearning?id=34786)
 2. [TUTORIALS DOJO- AWS Certified Security Specialty Practice Exams 2021]()
 3. [A CLOUD GURU- AWS Certified Security - Specialty 2020]()
 4. [A CLOUD GURU- AWS Certified Security - Specialty]()
