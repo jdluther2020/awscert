@@ -31,11 +31,11 @@
 7. [AWS Certified Advanced Networking Official Study Guide: Specialty Exam](https://www.amazon.com/Certified-Advanced-Networking-Official-Study-ebook/dp/B079VKD1CN)
 
 ## FAQs
-[Amazon VPC FAQ]: https://aws.amazon.com/vpc/faqs/
-[AWS Direct Connect FAQ]: https://aws.amazon.com/directconnect/faqs/
-[Amazon Route 53 FAQ]: https://aws.amazon.com/route53/faqs/
-[Amazon CloudFront FAQ]: https://aws.amazon.com/cloudfront/faqs/
-[Elastic Load Balancing FAQ]: https://aws.amazon.com/elasticloadbalancing/faqs/
+[Amazon VPC FAQ]
+[AWS Direct Connect FAQ]
+[Amazon Route 53 FAQ]
+[Amazon CloudFront FAQ]
+[Elastic Load Balancing FAQ]
 
 ## Exam Registration and Scheduling
 1. [Exam Details](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
