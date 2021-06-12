@@ -1,4 +1,6 @@
 # [AWS Cloud Practitioner (CLF-C01)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+&#8286;[Certification Home]&#8286;[AWS Solutions Architect - Associate]&#8286;[AWS Developer - Associate]&#8286;[SysOps Administrator - Associate]&#8286;[Solutions Architect - Professional]&#8286;[DevOps Engineer - Professional]&#8286;[Advanced Networking - Specialty]&#8286;[Security - Specialty]&#8286;[Data Analytics - Specialty]&#8286;[Database - Specialty]&#8286;
+&#8286;[Machine Learning - Specialty]
 
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
@@ -27,3 +29,17 @@
 1. [Exam Details](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=tile&tile=getstarted)
    * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
 2. [Schedule Your Exam](https://www.aws.training/certification?src=practitioner)
+
+<!-- CertHome-Ref V1 -->
+[AWS Cloud Practitioner]: cloud-practitioner/
+[AWS Solutions Architect - Associate]: sa-associate/
+[AWS Developer - Associate]: dev-associate/
+[SysOps Administrator - Associate]: sysops-admin-associate/
+[Solutions Architect - Professional]: sa-professional/
+[DevOps Engineer - Professional]: devops-engineer-professional/
+[Advanced Networking - Specialty]: advanced-networking-specialty/
+[Security - Specialty]: security-specialty/
+[Data Analytics - Specialty]: data-analytics-specialty/
+[Database - Specialty]: database-specialty/
+[Machine Learning - Specialty]: machine-learning-specialty/
+<!-- Ref V1 -->
