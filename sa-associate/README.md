@@ -1,4 +1,5 @@
 # [AWS Solutions Architect - Associate (SAA-C02)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+&#8286; [Certification Home] &#8286;
 
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
@@ -391,3 +392,17 @@
 [All FAQs]: https://aws.amazon.com/faqs/
 
 <!-- FAQs Ref V1 -->
+<!-- CertHome-Ref V1 -->
+[Certification Home]: ../README.md
+[AWS Cloud Practitioner]: cloud-practitioner/
+[AWS Solutions Architect - Associate]: sa-associate/
+[AWS Developer - Associate]: dev-associate/
+[SysOps Administrator - Associate]: sysops-admin-associate/
+[Solutions Architect - Professional]: sa-professional/
+[DevOps Engineer - Professional]: devops-engineer-professional/
+[Advanced Networking - Specialty]: advanced-networking-specialty/
+[Security - Specialty]: security-specialty/
+[Data Analytics - Specialty]: data-analytics-specialty/
+[Database - Specialty]: database-specialty/
+[Machine Learning - Specialty]: machine-learning-specialty/
+<!-- Ref V1 -->
