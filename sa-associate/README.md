@@ -9,8 +9,8 @@
 
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Solutions Architect - Associate](https://www.aws.training/Details/Curriculum?id=20685)
-2. [A CLOUD GURU- AWS Certified Solutions Architect Associate SAA-C02](https://acloud.guru/overview/aws-certified-solutions-architect-associate?_ga=2.257548750.430361032.1623364468-1013375855.1619983265)
-3. [A CLOUD GURU- AWS Certified Solutions Architect Associate SAA-C02- Practice Exam](https://practice-exam.acloud.guru/aws-csa-2019)
+2. [A CLOUD GURU- AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate?_ga=2.257548750.430361032.1623364468-1013375855.1619983265)
+3. [A CLOUD GURU- AWS Certified Solutions Architect Associate- Practice Exam](https://practice-exam.acloud.guru/aws-csa-2019)
 4. [TUTORIALS DOJO- AWS Certified Solutions Architect Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
 5. [ADRIAN CANTRILL TRAINING- AWS Certified Solutions Architect - Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 ### Optional Training
