@@ -14,13 +14,12 @@
 3. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty 2020](https://acloud.guru/overview/aws-networking-specialty)
 4. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty](https://practice-exam.acloud.guru/aws-networking-specialty)
 5. [ADRIAN CANTRILL TRAINING- AWS Certified Advanced Networking - Specialty](https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty)
-
 ### Optional Training
 6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score://www.aws.training/LearningLibrary?query=&filters=Domain%3A26%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 7. [A CLOUD GURU- LEARNING PATH - Networking](https://learn.acloud.guru/search?learningTypes%5B0%5D=LEARNING_PATH&cloudProviders%5B0%5D=AWS)
    * There is not a dedicated learning path for Networking but feel free to browse other learning paths.
 8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
-   * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
+   * **WATCH THIS ONCE** before you begin the AWS Certification Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers
 1. [Best Practices for VPCs and Networking in Amazon WorkSpaces Deployments](https://d1.awsstatic.com/whitepapers/best-practices-vpcs-networking-amazon-workspaces-deployments.pdf)

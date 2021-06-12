@@ -17,7 +17,7 @@
 6. [Optional Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20SkillLevel%3A8%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 7. [A CLOUD GURU- LEARNING PATH - Architect](https://learn.acloud.guru/learning-path/aws-architect)
 8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
-   * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
+   * **WATCH THIS ONCE** before you begin the AWS Certification Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers
 1. [Overview of AWS](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)

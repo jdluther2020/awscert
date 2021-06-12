@@ -12,12 +12,11 @@
 2. [TUTORIALS DOJO- AWS Certified Security Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/)
 3. [A CLOUD GURU- AWS Certified Security - Specialty 2020](https://acloud.guru/overview/aws-certified-security-specialty)
 4. [A CLOUD GURU- AWS Certified Security - Specialty- Practice Exam](https://practice-exam.acloud.guru/aws-certified-security-specialty)
-
 ### Optional Training
 6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A27%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 7. [A CLOUD GURU- LEARNING PATH - Security](https://learn.acloud.guru/learning-path/aws-security)
 8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
-   * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
+   * **WATCH THIS ONCE** before you begin the AWS Certification Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers
 1. [Security Pillar -- AWS Well Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf)
