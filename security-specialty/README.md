@@ -4,7 +4,7 @@
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Specialty_Exam-Guide.pdf)
 2. [Download the Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-security-spec/AWS-Certified-Security-Speciality_Sample-Questions.pdf)
-3. [Download the AWS Ramp-Up Guide for Security - Specialty](Advanced Networkin://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Security.pdf)
+3. [Download the AWS Ramp-Up Guide for Security - Specialty](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Security.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
 ## Training Platform
