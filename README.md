@@ -1,15 +1,30 @@
 # [AWS Certification Exam Center](https://aws.amazon.com/certification/)
 
-I created this site to provide one comprehensive place for everything AWS Certification related, covering all 11 certifications offered by Amazon as of June 2021. Whether you are beginning your AWS Certification journey or in the middle of it, this site will save a ton of your time you generally end up spending exploring and organizing contents before the exam. I've also curated the whitepapers, blogs and other important resources you need in order to prepare and pass the exam with confidence. I am constantly tweaking the site to keep it updated with the relevant and the latest contents. Hope you find it useful and visit often to lookup up to date information throughout your certification process. 
+I created this site to provide one comprehensive place for everything AWS Certification related, covering all 11 certifications offered by Amazon as of June 2021. Whether you are beginning your AWS Certification journey or in the middle of it, this site will save a ton of your time generally spent exploring and organizing contents before the exam. I've also curated the whitepapers, blogs and other important resources you need in order to prepare and pass the exam with confidence. I am constantly tweaking the site to keep it updated with the relevant and the latest contents. Hope you find it useful and visit often to lookup up-to-date information throughout your certification process. 
 
-1. [AWS Cloud Practitioner](cloud-practitioner/)
-2. [AWS Solutions Architect - Associate](sa-associate/)
-3. [AWS Developer - Associate](dev-associate/)
-4. [SysOps Administrator - Associate](sysops-admin-associate/)
-5. [Solutions Architect - Professional](sa-professional/)
-6. [DevOps Engineer - Professional](devops-engineer-professional/)
-7. [Advanced Networking - Specialty](advanced-networking-specialty/)
-8. [Security - Specialty](security-specialty/)
-9. [Data Analytics - Specialty](data-analytics-specialty/)
-10. [Database - Specialty](database-specialty/)
-11. [Machine Learning - Specialty](machine-learning-specialty/)
+1. [AWS Cloud Practitioner]
+2. [AWS Solutions Architect - Associate]
+3. [AWS Developer - Associate]
+4. [SysOps Administrator - Associate]
+5. [Solutions Architect - Professional]
+6. [DevOps Engineer - Professional]
+7. [Advanced Networking - Specialty]
+8. [Security - Specialty]
+9. [Data Analytics - Specialty]
+10. [Database - Specialty]
+11. [Machine Learning - Specialty]
+
+<!-- CertHome-Ref V1 -->
+[Certification Home]: ../README.md
+[AWS Cloud Practitioner]: cloud-practitioner/
+[AWS Solutions Architect - Associate]: sa-associate/
+[AWS Developer - Associate]: dev-associate/
+[SysOps Administrator - Associate]: sysops-admin-associate/
+[Solutions Architect - Professional]: sa-professional/
+[DevOps Engineer - Professional]: devops-engineer-professional/
+[Advanced Networking - Specialty]: advanced-networking-specialty/
+[Security - Specialty]: security-specialty/
+[Data Analytics - Specialty]: data-analytics-specialty/
+[Database - Specialty]: database-specialty/
+[Machine Learning - Specialty]: machine-learning-specialty/
+<!-- Ref V1 -->
