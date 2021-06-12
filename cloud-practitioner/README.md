@@ -31,6 +31,7 @@
 2. [Schedule Your Exam](https://www.aws.training/certification?src=practitioner)
 
 <!-- CertHome-Ref V1 -->
+[Certification Home]: ../README.md
 [AWS Cloud Practitioner]: cloud-practitioner/
 [AWS Solutions Architect - Associate]: sa-associate/
 [AWS Developer - Associate]: dev-associate/
