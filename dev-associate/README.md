@@ -20,10 +20,26 @@
    * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers
+1. [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+2. [Practicing Continuous Integration and Continuous Delivery on AWS Accelerating Software Delivery with DevOps](https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf)
+3. [Microservices on AWS](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
+4. [Serverless Architectures with AWS Lambda](https://d1.awsstatic.com/whitepapers/serverless-architectures-with-aws-lambda.pdf)
+5. [Optimizing Enterprise Economics with Serverless Architectures](https://d1.awsstatic.com/whitepapers/optimizing-enterprise-economics-serverless-architectures.pdf)
+6. [Running Containerized Microservices on AWS](https://d1.awsstatic.com/whitepapers/DevOps/running-containerized-microservices-on-aws.pdf)
+7. [Blue/Green Deployments on AWS](https://d1.awsstatic.com/whitepapers/AWS_Blue_Green_Deployments.pdf)
 
 ## FAQs
+1. [Amazon Simple Queue Service FAQ](https://aws.amazon.com/sqs/faqs/)
+2. [Amazon DynamoDB FAQ](https://aws.amazon.com/dynamodb/faqs/)
+3. [Amazon ElastiCache FAQ](https://aws.amazon.com/elasticache/faqs/)
+4. [Amazon Kinesis FAQ](https://aws.amazon.com/kinesis/data-streams/faqs/)
+5. [AWS Lambda FAQ](https://aws.amazon.com/lambda/faqs/)
+6. [Amazon API Gateway FAQ](https://aws.amazon.com/api-gateway/faqs/)
+7. [AWS Elastic Beanstalk FAQ](https://aws.amazon.com/elasticbeanstalk/faqs/)
+8. [AWS Identity and Access Management FAQ](https://aws.amazon.com/iam/faqs/)
+9. [AWS Key Management Service FAQ](https://aws.amazon.com/kms/faqs/)
 
-## Exam Registration and Scheduling Center
+## Exam Registration and Scheduling
 1. [Exam Details](https://aws.amazon.com/certification/certified-developer-associate/)
    * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
 2. [Schedule Your Exam](https://www.aws.training/certification?src=dev-assoc)

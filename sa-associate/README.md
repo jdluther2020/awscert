@@ -48,7 +48,7 @@
 6. [Amazon SQS FAQ]
 7. [All FAQs]
 
-## Exam Registration and Scheduling Center
+## Exam Registration and Scheduling
 1. [Exam Details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
    * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
 2. [Schedule Your Exam](https://www.aws.training/certification?src=arc-assoc)
