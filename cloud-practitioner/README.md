@@ -1,6 +1,5 @@
 # [AWS Cloud Practitioner (CLF-C01)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-&#8286;[Certification Home]&#8286;[AWS Solutions Architect - Associate]&#8286;[AWS Developer - Associate]&#8286;[SysOps Administrator - Associate]&#8286;[Solutions Architect - Professional]&#8286;[DevOps Engineer - Professional]&#8286;[Advanced Networking - Specialty]&#8286;[Security - Specialty]&#8286;[Data Analytics - Specialty]&#8286;[Database - Specialty]&#8286;
-&#8286;[Machine Learning - Specialty]
+&#8286; [Certification Home] &#8286;
 
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
