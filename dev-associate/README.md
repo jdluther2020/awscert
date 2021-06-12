@@ -12,10 +12,11 @@
 2. [A CLOUD GURU- AWS Certified Developer Associate 2020](https://acloud.guru/overview/aws-certified-developer-associate)
 3. [A CLOUD GURU- AWS Certified Developer Associate - Practice Exam](https://practice-exam.acloud.guru/aws-cda-2018)
 4. [TUTORIALS DOJO- AWS Certified Developer Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
+5. [ADRIAN CANTRILL TRAINING- AWS Certified Developer Associate](https://practice-exam.acloud.guru/aws-cda-2018://learn.cantrill.io/p/aws-certified-developer-associate)
 ### Optional Training
-5. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Role%3A58%20Language%3A1%20SkillLevel%3A8%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
-6. [A CLOUD GURU- LEARNING PATH - AWS Developer](https://learn.acloud.guru/learning-path/aws-developer)
-7. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
+6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Role%3A58%20Language%3A1%20SkillLevel%3A8%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
+7. [A CLOUD GURU- LEARNING PATH - AWS Developer](https://learn.acloud.guru/learning-path/aws-developer)
+8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
    * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers

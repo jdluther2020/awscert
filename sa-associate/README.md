@@ -12,7 +12,12 @@
 2. [A CLOUD GURU- AWS Certified Solutions Architect Associate SAA-C02](https://acloud.guru/overview/aws-certified-solutions-architect-associate?_ga=2.257548750.430361032.1623364468-1013375855.1619983265)
 3. [A CLOUD GURU- AWS Certified Solutions Architect Associate SAA-C02- Practice Exam](https://practice-exam.acloud.guru/aws-csa-2019)
 4. [TUTORIALS DOJO- AWS Certified Solutions Architect Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
-5. [Optional Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20SkillLevel%3A8%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
+5. [ADRIAN CANTRILL TRAINING- AWS Certified Solutions Architect - Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
+### Optional Training
+6. [Optional Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20SkillLevel%3A8%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
+7. [A CLOUD GURU- LEARNING PATH - Architect](https://learn.acloud.guru/learning-path/aws-architect)
+8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
+   * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers
 1. [Overview of AWS](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
