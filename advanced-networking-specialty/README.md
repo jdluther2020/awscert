@@ -15,9 +15,9 @@
 4. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty](https://practice-exam.acloud.guru/aws-networking-specialty)
 
 ### Optional Training
-6. [Optional Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score://www.aws.training/LearningLibrary?query=&filters=Domain%3A26%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
+6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score://www.aws.training/LearningLibrary?query=&filters=Domain%3A26%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 7. [A CLOUD GURU- LEARNING PATH - Networking](https://learn.acloud.guru/search?learningTypes%5B0%5D=LEARNING_PATH&cloudProviders%5B0%5D=AWS)
-   * There is a not dedicated learning path for Networking but feel free to browse other learning paths.
+   * There is not a dedicated learning path for Networking but feel free to browse other learning paths.
 8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
    * WATCH THIS ONCE once before you begin the AWS Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
