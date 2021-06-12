@@ -9,9 +9,9 @@
 
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Security - Specialty](https://www.aws.training/Details/eLearning?id=34786)
-2. [TUTORIALS DOJO- AWS Certified Security Specialty Practice Exams 2021]()
-3. [A CLOUD GURU- AWS Certified Security - Specialty 2020]()
-4. [A CLOUD GURU- AWS Certified Security - Specialty]()
+2. [TUTORIALS DOJO- AWS Certified Security Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/)
+3. [A CLOUD GURU- AWS Certified Security - Specialty 2020](https://acloud.guru/overview/aws-certified-security-specialty)
+4. [A CLOUD GURU- AWS Certified Security - Specialty- Practice Exam](https://practice-exam.acloud.guru/aws-certified-security-specialty)
 
 ### Optional Training
 6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A27%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
@@ -52,9 +52,9 @@
 19. [AWS Artifact](https://aws.amazon.com/artifact/faq/)
 
 ## Exam Registration and Scheduling
-1. [Exam Details]()
+1. [Exam Details](https://aws.amazon.com/certification/certified-security-specialty/)
    * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
-2. [Schedule Your Exam]()
+2. [Schedule Your Exam](https://www.aws.training/certification?src=security-spec)
 
 
 <!-- FAQs Ref V1 -->
