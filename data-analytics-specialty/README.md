@@ -20,11 +20,11 @@
 
 ## Whitepapers
 1. [Amazon EMR Migration Guide: How to Move Apache Spark and Apache Hadoop From On-Premises to AWS](https://d1.awsstatic.com/whitepapers/amazon_emr_migration_guide.pdf)
-2. [Big Data Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf?did=wp_card&trk=wp_card)
-3. [Lambda Architecture for Batch and Stream Processing](https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf?did=wp_card&trk=wp_card)
-4. [Streaming Data Solutions on AWS with Amazon Kinesis](https://d1.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf?did=wp_card&trk=wp_card)
-5. [Teaching Big Data Skills with Amazon EMR](https://d1.awsstatic.com/whitepapers/teaching-big-data-skills-amazon-emr.pdf?did=wp_card&trk=wp_card)
-6. [Reference Architecture: SQL Based Data Processing in Amazon ECS](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/sql_based_data_processing_amazon_ecs.pdf?did=wp_card&trk=wp_card)
+2. [Big Data Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
+3. [Lambda Architecture for Batch and Stream Processing](https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf)
+4. [Streaming Data Solutions on AWS with Amazon Kinesis](https://d1.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf)
+5. [Teaching Big Data Skills with Amazon EMR](https://d1.awsstatic.com/whitepapers/teaching-big-data-skills-amazon-emr.pdf)
+6. [Reference Architecture: SQL Based Data Processing in Amazon ECS](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/sql_based_data_processing_amazon_ecs.pdf)
 
 ## FAQs
 1. [Amazon Athena](https://aws.amazon.com/athena/faqs/)
