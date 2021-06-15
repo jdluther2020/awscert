@@ -10,6 +10,7 @@
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Security - Specialty](https://www.aws.training/Details/eLearning?id=34786)
 2. [TUTORIALS DOJO- AWS Certified Security Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 3. [A CLOUD GURU- AWS Certified Security - Specialty 2020](https://acloud.guru/overview/aws-certified-security-specialty)
 4. [A CLOUD GURU- AWS Certified Security - Specialty- Practice Exam](https://practice-exam.acloud.guru/aws-certified-security-specialty)
 ### Optional Training

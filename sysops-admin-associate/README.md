@@ -12,6 +12,7 @@
 2. [A CLOUD GURU- AWS Certified SysOps Administrator Associate 2020](https://acloud.guru/overview/aws-certified-sysops-administrator-associate)
 3. [A CLOUD GURU- AWS Certified SysOps Administrator Associate - Practice Exam](https://practice-exam.acloud.guru/aws-csysops-2019)
 4. [TUTORIALS DOJO- AWS Certified SysOps Administrator Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-sysops-administrator-associate-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 5. [ADRIAN CANTRILL TRAINING- AWS Certified SysOps Administrator Associate](https://learn.cantrill.io/p/aws-certified-sysops-administrator-associate)
 ### Optional Training
 6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Role%3A3%20Language%3A1%20SkillLevel%3A8&from=0&size=15&sort=_score)

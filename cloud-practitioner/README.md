@@ -12,6 +12,7 @@
 2. [A CLOUD GURU- AWS Certified Cloud Practitioner 2020](https://acloud.guru/overview/aws-certified-cloud-practitioner)
 3. [A CLOUD GURU- AWS Certified Cloud Practitioner 2020-Practice Exam](https://learn.acloud.guru/course/aws-certified-cloud-practitioner/learn/summary-and-good-luck/aws-certified-cloud-practitioner/quiz/aws-certified-cloud-practitioner)
 4. [TUTORIALS DOJO- AWS Certified Cloud Practitioner Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 ### Optional Training
 5. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Role%3A67%20Language%3A1%20SkillLevel%3A6%2C6%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 6. [A CLOUD GURU- LEARNING PATH - ALL](https://learn.acloud.guru/search?learningTypes%5B0%5D=LEARNING_PATH&cloudProviders%5B0%5D=AWS)

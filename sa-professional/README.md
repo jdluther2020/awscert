@@ -11,6 +11,7 @@
 1. [AMAZON- Exam Readiness Training- Solutions Architect - Professional](https://www.aws.training/Details/eLearning?id=34737)
 2. [ADRIAN CANTRILL TRAINING- AWS Certified Solutions Architect - Professional](https://learn.cantrill.io/p/aws-certified-devops-engineer-professional)
 3. [TUTORIALS DOJO- AWS Certified Solutions Architect Professional Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 4. [A CLOUD GURU- AWS Certified Solutions Architect Professional](https://acloud.guru/overview/aws-certified-solutions-architect-professional)
 5. [A CLOUD GURU- AWS Certified Solutions Architect Professional- Practice Exam](https://practice-exam.acloud.guru/aws-csa-pro-2019)
 ### Optional Training

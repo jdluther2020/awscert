@@ -11,6 +11,7 @@
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Advanced Networking - Specialty](https://www.aws.training/Details/Curriculum?id=21330)
 2. [TUTORIALS DOJO- AWS Certified Advanced Networking Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-advanced-networking-specialty-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 3. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty 2020](https://acloud.guru/overview/aws-networking-specialty)
 4. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty](https://practice-exam.acloud.guru/aws-networking-specialty)
 5. [ADRIAN CANTRILL TRAINING- AWS Certified Advanced Networking - Specialty](https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty)

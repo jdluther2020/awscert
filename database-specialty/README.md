@@ -10,6 +10,7 @@
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Database - Specialty](https://www.aws.training/Details/eLearning?id=47245)
 2. [TUTORIALS DOJO- AWS Certified Database Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-database-specialty-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 3. [A CLOUD GURU- AWS Certified Database - Specialty](https://acloud.guru/overview/aws-certified-big-data-specialty)
 <!--
 4. [A CLOUD GURU- AWS Certified Database - Specialty- Practice Exam]()

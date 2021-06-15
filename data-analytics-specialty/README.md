@@ -10,6 +10,7 @@
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Data Analytics - Specialty](https://www.aws.training/Details/eLearning?id=46612)
 2. [TUTORIALS DOJO- AWS Certified Data Analytics Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-data-analytics-specialty-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 3. [A CLOUD GURU- AWS Certified Data Analytics - Specialty](https://acloud.guru/overview/312375cd-c136-4f1c-81dc-dbdcfff2d06b)
 4. [A CLOUD GURU- AWS Certified Data Analytics - Specialty- Practice Exam](https://practice-exam.acloud.guru/9f55ebb2-12f8-4a55-a41b-fe5cb1917e30)
 ### Optional Training

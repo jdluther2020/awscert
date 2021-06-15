@@ -10,6 +10,7 @@
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Machine Learning - Specialty](https://www.aws.training/Details/eLearning?id=42183)
 2. [TUTORIALS DOJO- AWS Certified Machine Learning Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-machine-learning-specialty-practice-exams/)
+   * Tutorials Dojo courses can also be purchased on Udemy.com.
 3. [A CLOUD GURU- AWS Certified Machine Learning - Specialty 2020](https://acloud.guru/overview/aws-certified-machine-learning-specialty)
 4. [A CLOUD GURU- AWS Certified Machine Learning - Specialty- Practice Exam](https://practice-exam.acloud.guru/aws-certified-machine-learning-specialty)
 ### Optional Training
