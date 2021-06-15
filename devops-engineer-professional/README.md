@@ -10,15 +10,16 @@
 
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- DevOps Engineer - Professional](https://www.aws.training/Details/eLearning?id=34146)
-2. [A CLOUD GURU- AWS Certified DevOps Engineer - Professional](https://acloud.guru/overview/aws-certified-devops-engineer-professional)
-3. [A CLOUD GURU- AWS Certified DevOps Engineer - Professional- Practice Exam](https://practice-exam.acloud.guru/aws-certified-devops-engineer-professional-2019)
-4. [TUTORIALS DOJO- AWS Certified DevOps Engineer - Professional Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-devops-engineer-professional-practice-exams/)
+2. [UDEMY.COM- AWS Certified DevOps Engineer Professional 2021 - Hands On! by Stephane Maarek](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
+3. [A CLOUD GURU- AWS Certified DevOps Engineer - Professional](https://acloud.guru/overview/aws-certified-devops-engineer-professional)
+4. [A CLOUD GURU- AWS Certified DevOps Engineer - Professional- Practice Exam](https://practice-exam.acloud.guru/aws-certified-devops-engineer-professional-2019)
+5. [TUTORIALS DOJO- AWS Certified DevOps Engineer - Professional Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-devops-engineer-professional-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.
-5. [ADRIAN CANTRILL TRAINING- AWS Certified DevOps Engineer - Professional](https://learn.cantrill.io/p/aws-certified-devops-engineer-professional)
+6. [ADRIAN CANTRILL TRAINING- AWS Certified DevOps Engineer - Professional](https://learn.cantrill.io/p/aws-certified-devops-engineer-professional)
 ### Optional Training
-6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A24%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
-7. [A CLOUD GURU- LEARNING PATH - AWS DevOps](https://learn.acloud.guru/learning-path/aws-devops)
-8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
+7. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A24%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
+8. [A CLOUD GURU- LEARNING PATH - AWS DevOps](https://learn.acloud.guru/learning-path/aws-devops)
+9. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
    * **WATCH THIS ONCE** before you begin the AWS Certification Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
 
 ## Whitepapers
