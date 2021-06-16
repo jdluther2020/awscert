@@ -1,5 +1,13 @@
 # [AWS Developer - Associate (DVA-C01)](https://aws.amazon.com/certification/certified-developer-associate/)
 
+1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
+2. [PDF Downloads](#pdf-downloads)
+3. [Training Platform](#training-platform)
+4. [Optional Training](#optional-training)
+5. [Whitepapers](#whitepapers)
+6. [FAQs](#faqs)
+7. [Blogs](#blogs)
+
 ## Exam Registration and Scheduling
 1. [Exam Details](https://aws.amazon.com/certification/certified-developer-associate/)
    * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
