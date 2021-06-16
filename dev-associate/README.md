@@ -1,4 +1,9 @@
 # [AWS Developer - Associate (DVA-C01)](https://aws.amazon.com/certification/certified-developer-associate/)
+
+## Exam Registration and Scheduling
+1. [Exam Details](https://aws.amazon.com/certification/certified-developer-associate/)
+   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
+2. [Schedule Your Exam](https://www.aws.training/certification?src=dev-assoc)
 &#8286; [Certification Home] &#8286;
 
 ## PDF Downloads
@@ -41,10 +46,12 @@
 8. [AWS Identity and Access Management FAQ](https://aws.amazon.com/iam/faqs/)
 9. [AWS Key Management Service FAQ](https://aws.amazon.com/kms/faqs/)
 
-## Exam Registration and Scheduling
-1. [Exam Details](https://aws.amazon.com/certification/certified-developer-associate/)
-   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
-2. [Schedule Your Exam](https://www.aws.training/certification?src=dev-assoc)
+## Blogs
+* https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
+* https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/
+* https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/
+* https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
+
 
 
 
