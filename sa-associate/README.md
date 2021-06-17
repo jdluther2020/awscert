@@ -65,33 +65,33 @@
 7. [All FAQs]
 
 ## Blogs
-https://aws.amazon.com/blogs/architecture/reduce-cost-and-increase-security-with-amazon-vpc-endpoints/
-https://aws.amazon.com/blogs/aws/archive-s3-to-glacier/
-https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
-https://aws.amazon.com/blogs/aws/category/cloud-trail/
-https://aws.amazon.com/blogs/aws/glacier-vault-lock/
-https://aws.amazon.com/blogs/aws/new-amazon-s3-storage-class-glacier-deep-archive/
-https://aws.amazon.com/blogs/aws/new-application-load-balancer-simplifies-deployment-with-weighted-target-groups/
-https://aws.amazon.com/blogs/aws/new-application-load-balancer-sni/
-https://aws.amazon.com/blogs/aws/new-cross-region-replication-for-amazon-s3/
-https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/
-https://aws.amazon.com/blogs/aws/new-udp-load-balancing-for-network-load-balancer/
-https://aws.amazon.com/blogs/aws/s3-event-notification/
-https://aws.amazon.com/blogs/big-data/scale-your-amazon-kinesis-stream-capacity-with-updateshardcount/
-https://aws.amazon.com/blogs/compute/amazon-s3-adds-prefix-and-suffix-filters-for-lambda-function-triggering
-https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing
-https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
-https://aws.amazon.com/blogs/devops/use-a-creationpolicy-to-wait-for-on-instance-configurations/
-https://aws.amazon.com/blogs/mt/the-right-way-to-store-secrets-using-parameter-store/
-https://aws.amazon.com/blogs/mt/using-aws-cost-explorer-to-analyze-data-transfer-costs/
-https://aws.amazon.com/blogs/networking-and-content-delivery/global-data-ingestion-with-amazon-cloudfront-and-lambdaedge/
-https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-sub-1-gbps-hosted-connections-with-aws-transit-gateway/
-https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-vpn-throughput-using-aws-transit-gateway/
-https://aws.amazon.com/blogs/security/are-kms-custom-key-stores-right-for-you/
-https://aws.amazon.com/blogs/security/how-to-record-ssh-sessions-established-through-a-bastion-host/
-https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-amazon-s3-bucket/
-https://aws.amazon.com/blogs/storage/easily-store-your-sql-server-backups-in-amazon-s3-using-file-gateway/
-https://aws.amazon.com/blogs/storage/making-it-even-simpler-to-create-and-manage-your-aws-snow-family-jobs/
+* https://aws.amazon.com/blogs/architecture/reduce-cost-and-increase-security-with-amazon-vpc-endpoints/
+* https://aws.amazon.com/blogs/aws/archive-s3-to-glacier/
+* https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
+* https://aws.amazon.com/blogs/aws/category/cloud-trail/
+* https://aws.amazon.com/blogs/aws/glacier-vault-lock/
+* https://aws.amazon.com/blogs/aws/new-amazon-s3-storage-class-glacier-deep-archive/
+* https://aws.amazon.com/blogs/aws/new-application-load-balancer-simplifies-deployment-with-weighted-target-groups/
+* https://aws.amazon.com/blogs/aws/new-application-load-balancer-sni/
+* https://aws.amazon.com/blogs/aws/new-cross-region-replication-for-amazon-s3/
+* https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/
+* https://aws.amazon.com/blogs/aws/new-udp-load-balancing-for-network-load-balancer/
+* https://aws.amazon.com/blogs/aws/s3-event-notification/
+* https://aws.amazon.com/blogs/big-data/scale-your-amazon-kinesis-stream-capacity-with-updateshardcount/
+* https://aws.amazon.com/blogs/compute/amazon-s3-adds-prefix-and-suffix-filters-for-lambda-function-triggering
+* https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing
+* https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
+* https://aws.amazon.com/blogs/devops/use-a-creationpolicy-to-wait-for-on-instance-configurations/
+* https://aws.amazon.com/blogs/mt/the-right-way-to-store-secrets-using-parameter-store/
+* https://aws.amazon.com/blogs/mt/using-aws-cost-explorer-to-analyze-data-transfer-costs/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/global-data-ingestion-with-amazon-cloudfront-and-lambdaedge/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-sub-1-gbps-hosted-connections-with-aws-transit-gateway/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-vpn-throughput-using-aws-transit-gateway/
+* https://aws.amazon.com/blogs/security/are-kms-custom-key-stores-right-for-you/
+* https://aws.amazon.com/blogs/security/how-to-record-ssh-sessions-established-through-a-bastion-host/
+* https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-amazon-s3-bucket/
+* https://aws.amazon.com/blogs/storage/easily-store-your-sql-server-backups-in-amazon-s3-using-file-gateway/
+* https://aws.amazon.com/blogs/storage/making-it-even-simpler-to-create-and-manage-your-aws-snow-family-jobs/
 
 
 
