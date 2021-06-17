@@ -22,7 +22,7 @@
 
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Solutions Architect - Associate](https://www.aws.training/Details/Curriculum?id=20685)
-   * [AMAZON- The AWS Certification Quiz Show- Solutions Architect - Associate](https://www.aws.training/LearningLibrary?query=Quiz%20Show&filters=Language%3A1%20Domain%3A19%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
+   * [AMAZON- The AWS Certification Quiz Show- Solutions Architect - Associate](https://www.aws.training/LearningLibrary?query=Quiz%20Show&filters=Language%3A1%20Domain%3A19%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score) : 8 Episodes (30mins x 6, 15mins x 2)
 2. [A CLOUD GURU- AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate?_ga=2.257548750.430361032.1623364468-1013375855.1619983265)
 3. [A CLOUD GURU- AWS Certified Solutions Architect Associate- Practice Exam](https://practice-exam.acloud.guru/aws-csa-2019)
 4. [TUTORIALS DOJO- AWS Certified Solutions Architect Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
@@ -65,17 +65,33 @@
 7. [All FAQs]
 
 ## Blogs
-* https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-deployment/
-* https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/
-* https://aws.amazon.com/blogs/aws/new-whitepaper-use-aws-for-disaster-recovery/
-* https://aws.amazon.com/blogs/big-data/building-and-maintaining-an-amazon-s3-metadata-index-without-servers/
-* https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/
-* https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns/
-* https://aws.amazon.com/blogs/database/implementing-a-disaster-recovery-strategy-with-amazon-rds/
-* https://aws.amazon.com/blogs/mt/enable-self-service-secured-data-science-using-amazon-sagemaker-notebooks-and-aws-service-catalog/
-* https://aws.amazon.com/blogs/security/how-to-create-and-retrieve-secrets-managed-in-aws-secrets-manager-using-aws-cloudformation-template/
-* https://aws.amazon.com/blogs/security/how-to-establish-federated-access-to-your-aws-resources-by-using-active-directory-user-attributes/
-* https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering
+https://aws.amazon.com/blogs/architecture/reduce-cost-and-increase-security-with-amazon-vpc-endpoints/
+https://aws.amazon.com/blogs/aws/archive-s3-to-glacier/
+https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
+https://aws.amazon.com/blogs/aws/category/cloud-trail/
+https://aws.amazon.com/blogs/aws/glacier-vault-lock/
+https://aws.amazon.com/blogs/aws/new-amazon-s3-storage-class-glacier-deep-archive/
+https://aws.amazon.com/blogs/aws/new-application-load-balancer-simplifies-deployment-with-weighted-target-groups/
+https://aws.amazon.com/blogs/aws/new-application-load-balancer-sni/
+https://aws.amazon.com/blogs/aws/new-cross-region-replication-for-amazon-s3/
+https://aws.amazon.com/blogs/aws/new-scheduled-reserved-instances/
+https://aws.amazon.com/blogs/aws/new-udp-load-balancing-for-network-load-balancer/
+https://aws.amazon.com/blogs/aws/s3-event-notification/
+https://aws.amazon.com/blogs/big-data/scale-your-amazon-kinesis-stream-capacity-with-updateshardcount/
+https://aws.amazon.com/blogs/compute/amazon-s3-adds-prefix-and-suffix-filters-for-lambda-function-triggering
+https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing
+https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
+https://aws.amazon.com/blogs/devops/use-a-creationpolicy-to-wait-for-on-instance-configurations/
+https://aws.amazon.com/blogs/mt/the-right-way-to-store-secrets-using-parameter-store/
+https://aws.amazon.com/blogs/mt/using-aws-cost-explorer-to-analyze-data-transfer-costs/
+https://aws.amazon.com/blogs/networking-and-content-delivery/global-data-ingestion-with-amazon-cloudfront-and-lambdaedge/
+https://aws.amazon.com/blogs/networking-and-content-delivery/integrating-sub-1-gbps-hosted-connections-with-aws-transit-gateway/
+https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-vpn-throughput-using-aws-transit-gateway/
+https://aws.amazon.com/blogs/security/are-kms-custom-key-stores-right-for-you/
+https://aws.amazon.com/blogs/security/how-to-record-ssh-sessions-established-through-a-bastion-host/
+https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-amazon-s3-bucket/
+https://aws.amazon.com/blogs/storage/easily-store-your-sql-server-backups-in-amazon-s3-using-file-gateway/
+https://aws.amazon.com/blogs/storage/making-it-even-simpler-to-create-and-manage-your-aws-snow-family-jobs/
 
 
 
