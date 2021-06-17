@@ -64,6 +64,17 @@
 7. [All FAQs]
 
 ## Blogs
+https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-deployment/
+https://aws.amazon.com/blogs/aws/elastic-load-balancer-support-for-ssl-termination/
+https://aws.amazon.com/blogs/aws/new-whitepaper-use-aws-for-disaster-recovery/
+https://aws.amazon.com/blogs/big-data/building-and-maintaining-an-amazon-s3-metadata-index-without-servers/
+https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/
+https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns/
+https://aws.amazon.com/blogs/database/implementing-a-disaster-recovery-strategy-with-amazon-rds/
+https://aws.amazon.com/blogs/mt/enable-self-service-secured-data-science-using-amazon-sagemaker-notebooks-and-aws-service-catalog/
+https://aws.amazon.com/blogs/security/how-to-create-and-retrieve-secrets-managed-in-aws-secrets-manager-using-aws-cloudformation-template/
+https://aws.amazon.com/blogs/security/how-to-establish-federated-access-to-your-aws-resources-by-using-active-directory-user-attributes/
+https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering
 
 
 
