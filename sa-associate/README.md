@@ -1,6 +1,19 @@
 # [AWS Solutions Architect - Associate (SAA-C02)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 &#8286; [Certification Home] &#8286;
 
+1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
+2. [PDF Downloads](#pdf-downloads)
+3. [Training Platform](#training-platform)
+4. [Optional Training](#optional-training)
+5. [Whitepapers](#whitepapers)
+6. [FAQs](#faqs)
+7. [Blogs](#blogs)
+
+## Exam Registration and Scheduling
+1. [Exam Details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
+2. [Schedule Your Exam](https://www.aws.training/certification?src=arc-assoc)
+
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 2. [Download the Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
@@ -50,11 +63,7 @@
 6. [Amazon SQS FAQ]
 7. [All FAQs]
 
-## Exam Registration and Scheduling
-1. [Exam Details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
-2. [Schedule Your Exam](https://www.aws.training/certification?src=arc-assoc)
-
+## Blogs
 
 
 
