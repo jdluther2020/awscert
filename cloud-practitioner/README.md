@@ -1,6 +1,19 @@
 # [AWS Cloud Practitioner (CLF-C01)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 &#8286; [Certification Home] &#8286;
 
+1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
+2. [PDF Downloads](#pdf-downloads)
+3. [Training Platform](#training-platform)
+4. [Optional Training](#optional-training)
+5. [Whitepapers](#whitepapers)
+6. [FAQs](#faqs)
+7. [Blogs](#blogs)
+
+## Exam Registration and Scheduling
+1. [Exam Details](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=tile&tile=getstarted)
+   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
+2. [Schedule Your Exam](https://www.aws.training/certification?src=practitioner)
+
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 2. [Download the Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
@@ -29,10 +42,9 @@
    * There are no recommended FAQs reading specified as part of the exam guide but feel free to browse the FAQs and Documentation Home Pages for any specific information and questions.
 2. [AWS Documentation Home](https://docs.aws.amazon.com/)
 
-## Exam Registration and Scheduling
-1. [Exam Details](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=tile&tile=getstarted)
-   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
-2. [Schedule Your Exam](https://www.aws.training/certification?src=practitioner)
+## Blogs
+* [New and improved AWS Cloud Practitioner Essentials course to build your AWS Cloud knowledge](https://aws.amazon.com/blogs/training-and-certification/cloud-practitioner-essentials-digital-course/)
+  * Watch these fun short videos as this blog points out towards the end- [The AWS Power Hour: Cloud Practitioner series on the AWS Twitch channel](https://www.twitch.tv/search?term=aws%20power%20hour%20cloud%20practitioner)
 
 <!-- CertHome-Ref V1 -->
 [Certification Home]: ../README.md
