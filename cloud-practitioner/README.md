@@ -44,7 +44,7 @@
 
 ## Blogs
 * [New and improved AWS Cloud Practitioner Essentials course to build your AWS Cloud knowledge](https://aws.amazon.com/blogs/training-and-certification/cloud-practitioner-essentials-digital-course/)
-  * Watch these fun short videos as this blog points out towards the end- [The AWS Power Hour: Cloud Practitioner series on the AWS Twitch channel](https://www.twitch.tv/search?term=aws%20power%20hour%20cloud%20practitioner)
+  * Watch these fun short videos this post points out towards the end- [The AWS Power Hour: Cloud Practitioner series on the AWS Twitch channel](https://www.twitch.tv/search?term=aws%20power%20hour%20cloud%20practitioner)
 
 <!-- CertHome-Ref V1 -->
 [Certification Home]: ../README.md
