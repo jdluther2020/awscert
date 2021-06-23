@@ -55,14 +55,50 @@
 9. [AWS Key Management Service FAQ](https://aws.amazon.com/kms/faqs/)
 
 ## Blogs
+* https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-mysql-and-mariadb-logs-with-amazon-cloudwatch/
+* https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
+* https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/
 * https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
 * https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/
 * https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/
+* https://aws.amazon.com/blogs/aws/cloudformation-macros/
+* https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/
+* https://aws.amazon.com/blogs/compute/amazon-ecs-task-placement/
+* https://aws.amazon.com/blogs/aws/new-vpc-endpoint-for-amazon-s3
+* https://aws.amazon.com/blogs/database/monitor-amazon-rds-for-mysql-and-mariadb-logs-with-amazon-cloudwatch/
+* https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
+* https://aws.amazon.com/blogs/compute/amazon-ecs-task-placement/
 * https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
-
-
-
-
+* https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/
+* https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
+* https://aws.amazon.com/blogs/compute/amazon-ecs-task-placement/
+* https://aws.amazon.com/blogs/mt/integrating-aws-cloudformation-with-aws-systems-manager-parameter-store/
+* https://aws.amazon.com/blogs/compute/amazon-ecs-task-placement/
+* https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
+* https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
+* https://aws.amazon.com/blogs/aws/new-for-aws-lambda-use-any-programming-language-and-share-common-components/
+* https://aws.amazon.com/blogs/compute/sharing-secrets-with-aws-lambda-using-aws-systems-manager-parameter-store/
+* https://aws.amazon.com/blogs/security/how-to-prevent-uploads-of-unencrypted-objects-to-amazon-s3/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/
+* https://aws.amazon.com/blogs/compute/amazon-ecs-task-placement/
+* https://aws.amazon.com/blogs/developer/aws-cdk-developer-preview/
+* https://aws.amazon.com/blogs/compute/new-for-aws-lambda-predictable-start-up-times-with-provisioned-concurrency/
+* https://aws.amazon.com/blogs/architecture/best-practices-for-developing-on-aws-lambda/
+* https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns/
+* https://aws.amazon.com/blogs/architecture/understanding-the-different-ways-to-invoke-lambda-functions/
+* https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-transactions/
+* https://aws.amazon.com/blogs/aws/new-usage-plans-for-amazon-api-gateway/
+* https://aws.amazon.com/blogs/aws/aws-x-ray-see-inside-of-your-distributed-application/
+* https://aws.amazon.com/blogs/aws/new-elastic-load-balancing-feature-sticky-sessions/
+* https://aws.amazon.com/blogs/security/how-to-enable-cross-account-access-to-the-aws-management-console/
+* https://aws.amazon.com/blogs/mobile/understanding-amazon-cognito-authentication-part-2-developer-authenticated-identities/
+* https://aws.amazon.com/blogs/mobile/amazon-cognito-announcing-developer-authenticated-identities/
+* https://aws.amazon.com/blogs/security/granting-permission-to-launch-ec2-instances-with-iam-roles-passrole-permission/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/lambda-functions-as-targets-for-application-load-balancers/
+* https://aws.amazon.com/blogs/compute/using-amazon-efs-for-aws-lambda-in-your-serverless-applications/
+* https://aws.amazon.com/blogs/security/how-to-use-trust-policies-with-iam-roles/
+* https://aws.amazon.com/blogs/aws/simplified-multiple-object-invalidation-for-amazon-cloudfront/
+* https://aws.amazon.com/blogs/architecture/using-api-gateway-as-a-single-entry-point-for-web-applications-and-api-microservices/
 
 <!-- FAQs Ref V1 -->
 <!--  Compute -->
