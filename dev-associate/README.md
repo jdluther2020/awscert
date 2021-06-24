@@ -26,6 +26,7 @@
 3. [A CLOUD GURU- AWS Certified Developer Associate - Practice Exam](https://practice-exam.acloud.guru/aws-cda-2018)
 4. [TUTORIALS DOJO- AWS Certified Developer Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-developer-associate-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.
+   * [TUTORIALS DOJO- AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) is also a great resource reference, well structured and organized.
 5. [UDEMY.COM- Ultimate AWS Certified Developer Associate 2021 by Stephane Maarek](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 6. [ADRIAN CANTRILL TRAINING- AWS Certified Developer Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 ### Optional Training
