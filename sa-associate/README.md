@@ -27,6 +27,7 @@
 3. [A CLOUD GURU- AWS Certified Solutions Architect Associate- Practice Exam](https://practice-exam.acloud.guru/aws-csa-2019)
 4. [TUTORIALS DOJO- AWS Certified Solutions Architect Associate Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.
+   * [TUTORIALS DOJO- AWS Cheat Sheets](https://tutorialsdojo.com/aws-cheat-sheets/) is also a great resource reference, well structured and organized.
 5. [UDEMY.COM- Ultimate AWS Certified Solutions Architect Associate 2021 by Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
 6. [ADRIAN CANTRILL TRAINING- AWS Certified Solutions Architect - Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 ### Optional Training
@@ -92,6 +93,9 @@
 * https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-amazon-s3-bucket/
 * https://aws.amazon.com/blogs/storage/easily-store-your-sql-server-backups-in-amazon-s3-using-file-gateway/
 * https://aws.amazon.com/blogs/storage/making-it-even-simpler-to-create-and-manage-your-aws-snow-family-jobs/
+
+### Blogs - Optional Reading
+* https://aws.amazon.com/blogs/training-and-certification/successful-solutions-architects-do-these-five-things/
 
 
 
