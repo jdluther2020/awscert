@@ -1,6 +1,19 @@
 # [Advanced Networking - Specialty (ANS-C00)](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
 &#8286; [Certification Home] &#8286;
 
+1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
+2. [PDF Downloads](#pdf-downloads)
+3. [Training Platform](#training-platform)
+4. [Optional Training](#optional-training)
+5. [Whitepapers](#whitepapers)
+6. [FAQs](#faqs)
+7. [Blogs](#blogs)
+
+## Exam Registration and Scheduling
+1. [Exam Details](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
+2. [Schedule Your Exam](https://www.aws.training/certification?src=an-spec)
+
 ## PDF Downloads
 1. [Download the Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-advnetworking-spec/AWS-Certified-Advanced-Networking-Specialty_Exam-Guide.pdf)
 2. [Download the Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-advnetworking-spec/AWS-Certified-Advanced-Networking-Specialty_Sample-Questions.pdf)
@@ -38,10 +51,35 @@
 4. [Amazon CloudFront FAQ]
 5. [Elastic Load Balancing FAQ]
 
-## Exam Registration and Scheduling
-1. [Exam Details](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
-   * You can optionally take a practice exam by paying a small free before scheduling the final exam. Amazon provides a free practice exam voucher and a half-off next exam voucher after you pass an exam. See more details on this page as well as in the exam scheduling page below.
-2. [Schedule Your Exam](https://www.aws.training/certification?src=an-spec)
+## Blogs
+* https://aws.amazon.com/blogs/aws/elastic-load-balancer-ssl-support-options/
+* https://aws.amazon.com/blogs/aws/new-advanced-request-routing-for-aws-application-load-balancers/
+* https://aws.amazon.com/blogs/mt/monitor-changes-and-auto-enable-logging-in-aws-cloudtrail/
+* https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
+* https://aws.amazon.com/blogs/security/how-to-automatically-update-your-security-groups-for-amazon-cloudfront-and-aws-waf-by-using-aws-lambda/
+* https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/
+* https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-amazon-route-53/
+* https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-microsoft-active-directory/
+* https://aws.amazon.com/blogs/aws/elastic-load-balancing-adds-support-for-proxy-protocol/
+* https://aws.amazon.com/blogs/aws/new-advanced-request-routing-for-aws-application-load-balancers/
+* https://aws.amazon.com/blogs/aws/new-vpc-traffic-mirroring/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/global-data-ingestion-with-amazon-cloudfront-and-lambdaedge/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-vpn-throughput-using-aws-transit-gateway/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/securing-egress-using-ids-ips-leveraging-transit-gateway/
+* https://aws.amazon.com/blogs/security/amazon-inspector-assess-network-exposure-ec2-instances-aws-network-reachability-assessments/
+* https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
+* https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/
+* https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-amazon-route-53/
+* https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-microsoft-active-directory/
+* https://aws.amazon.com/blogs/aws/ec2-vpc-vpn-update-nat-traversal-additional-encryption-options-and-more/
+* https://aws.amazon.com/blogs/aws/elastic-load-balancer-ssl-support-options/
+* https://aws.amazon.com/blogs/aws/new-advanced-request-routing-for-aws-application-load-balancers/
+* https://aws.amazon.com/blogs/aws/subscribe-to-aws-public-ip-address-changes-via-amazon-sns/
+* https://aws.amazon.com/blogs/mt/monitor-changes-and-auto-enable-logging-in-aws-cloudtrail/
+* https://aws.amazon.com/blogs/security/how-to-automatically-update-your-security-groups-for-amazon-cloudfront-and-aws-waf-by-using-aws-lambda/
+* https://aws.amazon.com/blogs/security/how-to-monitor-aws-account-configuration-changes-and-api-calls-to-amazon-ec2-security-groups/
+
+### Blogs - Optional Reading
 
 
 <!-- FAQs Ref V1 -->
