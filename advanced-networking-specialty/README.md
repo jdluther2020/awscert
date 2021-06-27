@@ -71,6 +71,7 @@
 * https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-microsoft-active-directory/
 
 ### Blogs - Optional Reading
+* [AWS Blogs- Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/)
 
 
 <!-- FAQs Ref V1 -->
