@@ -8,6 +8,7 @@
 5. [Whitepapers](#whitepapers)
 6. [FAQs](#faqs)
 7. [Blogs](#blogs)
+8. [AWS Training and Certification: Digital Training](#aws-digital-training)
 
 ## Exam Registration and Scheduling
 1. [Exam Details](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
@@ -96,6 +97,23 @@
 
 ### Blogs - Optional Reading
 * https://aws.amazon.com/blogs/training-and-certification/successful-solutions-architects-do-these-five-things/
+
+### AWS Digital Training *
+
+<sub><sup>\* Registration required</sup></sub>
+
+* [Exam Readiness: AWS Certified Solutions Architect - Associate](https://www.aws.training/Details/Curriculum?id=20685)
+
+#### The AWS Certification Quiz Show
+
+* [Episode 1](https://www.aws.training/Details/Video?id=37288)
+* [Episode 2](https://www.aws.training/Details/Video?id=37290)
+* [Episode 3](https://www.aws.training/Details/Video?id=37291)
+* [Episode 4](https://www.aws.training/Details/Video?id=37294)
+* [Episode 5](https://www.aws.training/Details/Video?id=37295)
+* [Episode 6](https://www.aws.training/Details/Video?id=37487)
+* [Episode 7](https://www.aws.training/Details/Video?id=37279)
+* [Episode 8](https://www.aws.training/Details/Video?id=37282)
 
 
 
