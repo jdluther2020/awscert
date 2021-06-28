@@ -104,7 +104,7 @@
 
 * [Exam Readiness: AWS Certified Solutions Architect - Associate](https://www.aws.training/Details/Curriculum?id=20685)
 
-#### The AWS Certification Quiz Show
+#### The AWS Certification Quiz Show **
 
 * [Episode 1](https://www.aws.training/Details/Video?id=37288)
 * [Episode 2](https://www.aws.training/Details/Video?id=37290)
@@ -115,7 +115,7 @@
 * [Episode 7](https://www.aws.training/Details/Video?id=37279)
 * [Episode 8](https://www.aws.training/Details/Video?id=37282)
 
-
+<sub><sup>\** Some videos may be availble on [YouTube](https://www.youtube.com)</sup></sub>
 
 <!-- FAQs Ref V1 -->
 <!--  Compute -->
