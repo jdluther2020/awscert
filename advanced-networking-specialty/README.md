@@ -23,12 +23,12 @@
 
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Advanced Networking - Specialty](https://www.aws.training/Details/Curriculum?id=21330)
-2. [TUTORIALS DOJO- AWS Certified Advanced Networking Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-advanced-networking-specialty-practice-exams/)
+2. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty 2020 - Video Training](https://acloud.guru/overview/aws-networking-specialty)
+3. [TUTORIALS DOJO- AWS Certified Advanced Networking Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-advanced-networking-specialty-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.
    * [TUTORIALS DOJO- AWS Certified Advanced Networking – Specialty Exam Study Path](https://tutorialsdojo.com/aws-certified-advanced-networking-specialty-exam-study-path)
-3. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty 2020](https://acloud.guru/overview/aws-networking-specialty)
-4. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty](https://practice-exam.acloud.guru/aws-networking-specialty)
-5. [ADRIAN CANTRILL TRAINING- AWS Certified Advanced Networking - Specialty](https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty)
+4. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty - Practice Exam](https://practice-exam.acloud.guru/aws-networking-specialty)
+5. [ADRIAN CANTRILL TRAINING- AWS Certified Advanced Networking - Specialty - Video Training](https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty)
 ### Optional Training
 6. [Amazon E-Learning- 10 to 20 minute videos to teach fundamentals by each service](https://www.aws.training/LearningLibrary?query=&filters=Domain%3A19%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score://www.aws.training/LearningLibrary?query=&filters=Domain%3A26%20Language%3A1%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score)
 7. [A CLOUD GURU- LEARNING PATH - Networking](https://learn.acloud.guru/search?learningTypes%5B0%5D=LEARNING_PATH&cloudProviders%5B0%5D=AWS)
