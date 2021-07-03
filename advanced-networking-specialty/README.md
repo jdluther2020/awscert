@@ -19,7 +19,7 @@
 2. [Download the Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-advnetworking-spec/AWS-Certified-Advanced-Networking-Specialty_Sample-Questions.pdf)
 3. [Download the AWS Ramp-Up Guide for Networking - Specialty](https://aws.amazon.com/training/ramp-up-guides/)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
-   * AWS **doesn't have a Ramp-Up Guide for Network Specialty** as such but feel free to check out the Ramp-Up Guide home page to explore other guides.
+   * AWS **doesn't have a Ramp-Up Guide for Network Specialty** as such but feel free to check out the [Ramp-Up Guide Home Page](https://aws.amazon.com/training/ramp-up-guides/) to explore other guides.
 
 ## Training Platform
 1. [AMAZON- Exam Readiness Training- Advanced Networking - Specialty](https://www.aws.training/Details/Curriculum?id=21330)
