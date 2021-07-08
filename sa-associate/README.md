@@ -81,6 +81,7 @@
 * https://aws.amazon.com/blogs/big-data/scale-your-amazon-kinesis-stream-capacity-with-updateshardcount/
 * https://aws.amazon.com/blogs/compute/amazon-s3-adds-prefix-and-suffix-filters-for-lambda-function-triggering
 * https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing
+* https://aws.amazon.com/blogs/database/best-storage-practices-for-running-production-workloads-on-hosted-databases-with-amazon-rds-or-amazon-ec2/
 * https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
 * https://aws.amazon.com/blogs/devops/use-a-creationpolicy-to-wait-for-on-instance-configurations/
 * https://aws.amazon.com/blogs/mt/the-right-way-to-store-secrets-using-parameter-store/
