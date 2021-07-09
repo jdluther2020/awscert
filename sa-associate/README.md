@@ -66,6 +66,7 @@
 7. [All FAQs]
 
 ## Blogs
+* https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/
 * https://aws.amazon.com/blogs/architecture/reduce-cost-and-increase-security-with-amazon-vpc-endpoints/
 * https://aws.amazon.com/blogs/aws/archive-s3-to-glacier/
 * https://aws.amazon.com/blogs/aws/aws-identity-and-access-management-now-with-identity-federation/
