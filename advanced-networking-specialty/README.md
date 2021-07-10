@@ -53,6 +53,7 @@
 5. [Elastic Load Balancing FAQ]
 
 ## Blogs
+* https://aws.amazon.com/blogs/aws/aws-solution-transit-vpc/
 * https://aws.amazon.com/blogs/aws/ec2-vpc-vpn-update-nat-traversal-additional-encryption-options-and-more/
 * https://aws.amazon.com/blogs/aws/elastic-load-balancer-ssl-support-options/
 * https://aws.amazon.com/blogs/aws/elastic-load-balancing-adds-support-for-proxy-protocol/
