@@ -44,6 +44,7 @@
 5. [High Performance Computing on AWS Redefines What is Possible](https://d1.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)
 6. [Integrating AWS with Multiprotocol Label Switching](https://d1.awsstatic.com/whitepapers/Networking/integrating-aws-with-multiprotocol-label-switching.pdf)
 7. [AWS Certified Advanced Networking Official Study Guide: Specialty Exam](https://www.amazon.com/Certified-Advanced-Networking-Official-Study-ebook/dp/B079VKD1CN)
+8. [Protecting Enterprise Systems with Cloud-Based Firewalls](https://d1.awsstatic.com/Marketplace/solutions-center/downloads/How%20to%20Protect%20Enterprise%20Systems%20with%20Cloud-based-Firewalls.pdf)
 
 ## FAQs
 1. [Amazon VPC FAQ]
