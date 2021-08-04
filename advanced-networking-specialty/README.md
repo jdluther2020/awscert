@@ -1,13 +1,18 @@
 # [Advanced Networking - Specialty (ANS-C00)](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
 &#8286; [Certification Home] &#8286;
 
+## Table of Contents
 1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
 2. [PDF Downloads](#pdf-downloads)
-3. [Training Platform](#training-platform)
+3. [Training Platforms](#training-platforms)
 4. [Optional Training](#optional-training)
-5. [Whitepapers](#whitepapers)
-6. [FAQs](#faqs)
-7. [Blogs](#blogs)
+5. [Important Networking Topics](#important-networking-topics)
+6. [Documentations](#documentations)
+7. [Whitepapers](#whitepapers)
+8. [FAQs](#faqs)
+9. [Blogs](#blogs)
+10. [Books](#books)
+11. [Videos](#videos)
 
 ## Exam Registration and Scheduling
 1. [Exam Details](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
@@ -21,12 +26,15 @@
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
    * AWS **doesn't have a Ramp-Up Guide for Network Specialty** as such but feel free to check out the [Ramp-Up Guide Home Page](https://aws.amazon.com/training/ramp-up-guides/) to explore other guides.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Advanced Networking - Specialty](https://www.aws.training/Details/Curriculum?id=21330)
 2. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty 2020 - Video Training](https://acloud.guru/overview/aws-networking-specialty)
+2. [A CLOUD GURU- AWS Advanced Networking Specialty (LA)- Video Training](https://learn.acloud.guru/course/d33a0dae-b8a5-4e7a-befa-7d6dd8631e9b/dashboard)
+   * This course is short and has a lot of concepts that augements well with the main training by ACG which is reall well done!
 3. [TUTORIALS DOJO- AWS Certified Advanced Networking Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-advanced-networking-specialty-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.
    * [TUTORIALS DOJO- AWS Certified Advanced Networking – Specialty Exam Study Path](https://tutorialsdojo.com/aws-certified-advanced-networking-specialty-exam-study-path)
+   * [AWS Cheat Sheets – Networking and Content Delivery](https://tutorialsdojo.com/aws-cheat-sheets-networking-and-content-delivery/)
 4. [A CLOUD GURU- AWS Certified Advanced Networking - Specialty - Practice Exam](https://practice-exam.acloud.guru/aws-networking-specialty)
 5. [ADRIAN CANTRILL TRAINING- AWS Certified Advanced Networking - Specialty - Video Training](https://learn.cantrill.io/p/aws-certified-advanced-networking-specialty)
 ### Optional Training
@@ -35,6 +43,8 @@
    * There is not a dedicated learning path for Networking but feel free to browse other learning paths.
 8. [A CLOUD GURU- AWS Certification Preparation Guide](https://acloud.guru/overview/aws-certification-preparation)
    * **WATCH THIS ONCE** before you begin the AWS Certification Journey. Mattias Andersson has done an excellent job in this course. It will be well worth your time.
+
+## Documentations
 
 ## Whitepapers
 1. [Best Practices for VPCs and Networking in Amazon WorkSpaces Deployments](https://d1.awsstatic.com/whitepapers/best-practices-vpcs-networking-amazon-workspaces-deployments.pdf)
@@ -57,7 +67,7 @@
 5. [Elastic Load Balancing FAQ]
 
 ## Blogs
-* https://aws.amazon.com/blogs/aws/aws-solution-transit-vpc/
+* https://aws.amazon.com/blogs/aws/aws-solution-transit-vpc/ : **No longer in service since TGW is filling that role, good historical reference anyways.**
 * https://aws.amazon.com/blogs/aws/ec2-vpc-vpn-update-nat-traversal-additional-encryption-options-and-more/
 * https://aws.amazon.com/blogs/aws/elastic-load-balancer-ssl-support-options/
 * https://aws.amazon.com/blogs/aws/elastic-load-balancing-adds-support-for-proxy-protocol/
@@ -73,11 +83,30 @@
 * https://aws.amazon.com/blogs/security/how-to-automatically-update-your-security-groups-for-amazon-cloudfront-and-aws-waf-by-using-aws-lambda/
 * https://aws.amazon.com/blogs/security/how-to-monitor-aws-account-configuration-changes-and-api-calls-to-amazon-ec2-security-groups/
 * https://aws.amazon.com/blogs/security/how-to-set-up-an-outbound-vpc-proxy-with-domain-whitelisting-and-content-filtering/
+* https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-by-using-unbound/
 * https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-amazon-route-53/
 * https://aws.amazon.com/blogs/security/how-to-set-up-dns-resolution-between-on-premises-networks-and-aws-using-aws-directory-service-and-microsoft-active-directory/
+* https://aws.amazon.com/blogs/apn/reviewing-dns-mechanisms-for-routing-traffic-and-enabling-failover-for-aws-privatelink-deployments/
+* https://aws.amazon.com/articles/connecting-a-single-customer-router-to-multiple-vpcs/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/influencing-traffic-over-hybrid-networks-using-longest-prefix-match/
+* https://aws.amazon.com/blogs/aws/aws-cloudformation-additional-vpc-support-and-new-templates/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/creating-active-passive-bgp-connections-over-aws-direct-connect/
+* https://aws.amazon.com/blogs/startups/building-a-vpc-with-the-aws-startup-kit/
+* https://aws.amazon.com/blogs/aws/new-import-existing-resources-into-a-cloudformation-stack/
+* https://aws.amazon.com/blogs/mt/how-to-setup-and-use-aws-opsworks-for-chef-automate-or-puppet-enterprise-in-an-isolated-subnet/
+* https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/simulating-site-to-site-vpn-customer-gateways-strongswan/
+* https://aws.amazon.com/blogs/networking-and-content-delivery/simulating-site-to-site-vpn-customer-gateways-using-strongswan-part-2-certificate-based-authentication/
 
 ### Blogs - Optional Reading
 * [AWS Blogs- Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/)
+
+## Books
+* [AWS Certified Advanced Networking Official Study Guide: Specialty Exam](https://www.wiley.com/en-us/AWS+Certified+Advanced+Networking+Official+Study+Guide:+Specialty+Exam-p-9781119439837)
+  * https://www.efficientlearning.com/login : Access test bank and practice questions. This is an excellent resource provided by the book publisher.
+
+## Videos
+* [YouTube- AWS re:Invent 2019: [REPEAT 1] Best practices for authoring AWS CloudFormation (DOP302-R1)](https://www.youtube.com/watch?v=bJHHQM7GGro)
 
 
 <!-- FAQs Ref V1 -->
