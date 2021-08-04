@@ -102,8 +102,8 @@
 * [AWS Blogs- Networking & Content Delivery](https://aws.amazon.com/blogs/networking-and-content-delivery/)
 
 ## Books
-* [AWS Certified Advanced Networking Official Study Guide: Specialty Exam](https://www.wiley.com/en-us/AWS+Certified+Advanced+Networking+Official+Study+Guide:+Specialty+Exam-p-9781119439837)
-  * https://www.efficientlearning.com/login : Access test bank and practice questions. This is an excellent resource provided by the book publisher.
+* [AWS Certified Advanced Networking Official Study Guide: Specialty Exam](https://smile.amazon.com/Certified-Advanced-Networking-Official-Study/dp/1119439833/ref=sr_1_3?dchild=1&keywords=advanced+networking+aws&qid=1628039626&sr=8-3)
+  * [Wiley Efficient Learning - TEST and FLASHCARD BANK](https://www.efficientlearning.com/login) : Access test bank and practice questions online, also found at the end of each chapter in this book. This is an excellent resource provided by the book publisher. This book is worth purchasing as it is well written and provides a very comprehensive networking knowledge of AWS Networking Services.
 
 ## Videos
 * [YouTube- AWS re:Invent 2019: [REPEAT 1] Best practices for authoring AWS CloudFormation (DOP302-R1)](https://www.youtube.com/watch?v=bJHHQM7GGro)
