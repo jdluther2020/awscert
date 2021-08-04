@@ -65,6 +65,7 @@
 3. [Amazon Route 53 FAQ]
 4. [Amazon CloudFront FAQ]
 5. [Elastic Load Balancing FAQ]
+6. [Product and Technical FAQs](https://aws.amazon.com/faqs/)
 
 ## Blogs
 * https://aws.amazon.com/blogs/aws/aws-solution-transit-vpc/ : **No longer in service since TGW is filling that role, good historical reference anyways.**
