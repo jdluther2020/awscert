@@ -16,7 +16,7 @@ I created this site to provide one comprehensive place for everything AWS Certif
 
 **Wish you all the best!!**    
 **John David Luther**
-## Certification Status as of August 2021
+## My Certification Status (as of August 2021)
 1. AWS Certified Advanced Networking – Specialty
 2. AWS Certified Solutions Architect – Professional
 3. AWS Certified DevOps Engineer – Professional
