@@ -16,6 +16,15 @@ I created this site to provide one comprehensive place for everything AWS Certif
 
 **Wish you all the best!!**    
 **John David Luther**
+## Certification Status as of August 2021
+1. AWS Certified Advanced Networking – Specialty
+2. AWS Certified Solutions Architect – Professional
+3. AWS Certified DevOps Engineer – Professional
+4. AWS Certified Developer – Associate
+5. AWS Certified SysOps Administrator – Associate
+6. AWS Certified Solutions Architect – Associate
+7. AWS Certified Cloud Practitioner
+8. HashiCorp Certified: Terraform Associate
 
 
 <!-- CertHome-Ref V1 -->
