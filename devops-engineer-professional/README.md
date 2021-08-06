@@ -8,7 +8,7 @@
 4. [Download the AWS Ramp-Up Guide for Operations](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Operations.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- DevOps Engineer - Professional](https://www.aws.training/Details/eLearning?id=34146)
 2. [UDEMY.COM- AWS Certified DevOps Engineer Professional 2021 - Hands On! by Stephane Maarek](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/)
 3. [A CLOUD GURU- AWS Certified DevOps Engineer - Professional](https://acloud.guru/overview/aws-certified-devops-engineer-professional)

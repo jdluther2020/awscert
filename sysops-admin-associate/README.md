@@ -7,7 +7,7 @@
 3. [Download the AWS Ramp-Up Guide for Operations](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Operations.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- SysOps Administrator - Associate](https://www.aws.training/Details/Video?id=27486)
 2. [A CLOUD GURU- AWS Certified SysOps Administrator Associate 2020](https://acloud.guru/overview/aws-certified-sysops-administrator-associate)
 3. [A CLOUD GURU- AWS Certified SysOps Administrator Associate - Practice Exam](https://practice-exam.acloud.guru/aws-csysops-2019)

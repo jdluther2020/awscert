@@ -7,7 +7,7 @@
 3. [Download the AWS Ramp-Up Guide for Data Analytics - Specialty](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Data_Analytics.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Data Analytics - Specialty](https://www.aws.training/Details/eLearning?id=46612)
 2. [TUTORIALS DOJO- AWS Certified Data Analytics Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-data-analytics-specialty-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.

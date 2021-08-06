@@ -7,7 +7,7 @@
 3. [Download the AWS Ramp-Up Guide for Architects](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Solutions Architect - Professional](https://www.aws.training/Details/eLearning?id=34737)
 2. [ADRIAN CANTRILL TRAINING- AWS Certified Solutions Architect - Professional](https://learn.cantrill.io/p/aws-certified-devops-engineer-professional)
 3. [TUTORIALS DOJO- AWS Certified Solutions Architect Professional Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-professional-practice-exams/)

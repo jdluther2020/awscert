@@ -3,7 +3,7 @@
 
 1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
 2. [PDF Downloads](#pdf-downloads)
-3. [Training Platform](#training-platform)
+3. [Training Platforms](#training-platforms)
 4. [Optional Training](#optional-training)
 5. [Whitepapers](#whitepapers)
 6. [FAQs](#faqs)
@@ -20,7 +20,7 @@
 3. [Download the AWS Ramp-Up Guide for Developers](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Developer.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Developer - Associate](https://www.aws.training/Details/Curriculum?id=19185)
 2. [A CLOUD GURU- AWS Certified Developer Associate 2020](https://acloud.guru/overview/aws-certified-developer-associate)
 3. [A CLOUD GURU- AWS Certified Developer Associate - Practice Exam](https://practice-exam.acloud.guru/aws-cda-2018)

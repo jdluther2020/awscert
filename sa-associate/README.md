@@ -3,7 +3,7 @@
 
 1. [Exam Registration and Scheduling](#exam-registration-and-scheduling)
 2. [PDF Downloads](#pdf-downloads)
-3. [Training Platform](#training-platform)
+3. [Training Platforms](#training-platforms)
 4. [Optional Training](#optional-training)
 5. [Whitepapers](#whitepapers)
 6. [FAQs](#faqs)
@@ -20,7 +20,7 @@
 3. [Download the AWS Ramp-Up Guide for Architects](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Architect.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Solutions Architect - Associate](https://www.aws.training/Details/Curriculum?id=20685)
    * [AMAZON- The AWS Certification Quiz Show- Solutions Architect - Associate](https://www.aws.training/LearningLibrary?query=Quiz%20Show&filters=Language%3A1%20Domain%3A19%20DeliveryFormat%3A1%2C4%2C6%2C7%2C8&from=0&size=15&sort=_score) : 8 Episodes (30mins x 6, 15mins x 2)
 2. [A CLOUD GURU- AWS Certified Solutions Architect Associate](https://acloud.guru/overview/aws-certified-solutions-architect-associate?_ga=2.257548750.430361032.1623364468-1013375855.1619983265)

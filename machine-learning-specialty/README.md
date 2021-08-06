@@ -7,7 +7,7 @@
 3. [Download the AWS Ramp-Up Guide for Machine Learning - Specialty](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Machine_Learning.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Machine Learning - Specialty](https://www.aws.training/Details/eLearning?id=42183)
 2. [TUTORIALS DOJO- AWS Certified Machine Learning Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-machine-learning-specialty-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.

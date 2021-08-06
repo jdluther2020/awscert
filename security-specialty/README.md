@@ -7,7 +7,7 @@
 3. [Download the AWS Ramp-Up Guide for Security - Specialty](https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Security.pdf)
    * AWS Ramp-Up Guide is the most comprehensive document you want to familiarize yourself. It contains everything you see on this site plus many more pointers to a variety of AWS resources to go deep into AWS Cloud.
 
-## Training Platform
+## Training Platforms
 1. [AMAZON- Exam Readiness Training- Security - Specialty](https://www.aws.training/Details/eLearning?id=34786)
 2. [TUTORIALS DOJO- AWS Certified Security Specialty Practice Exams 2021](https://portal.tutorialsdojo.com/courses/aws-certified-security-specialty-practice-exams/)
    * Tutorials Dojo courses can also be purchased on Udemy.com.
