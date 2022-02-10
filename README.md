@@ -17,14 +17,15 @@ I created this site to provide one comprehensive place for everything AWS Certif
 **Wish you all the best!!**    
 **John David Luther**
 ## My Certification Status (as of August 2021)
-1. [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
-2. [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
-3. [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
-4. [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-5. [AWS Certified SysOps Administrator – Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
-6. [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-7. [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-8. [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate/)
+1. [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
+2. [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+3. [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+4. [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+5. [AWS Certified Developer – Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+6. [AWS Certified SysOps Administrator – Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+7. [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+8. [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+9. [HashiCorp Certified: Terraform Associate](https://www.hashicorp.com/certification/terraform-associate/)
 
 
 
