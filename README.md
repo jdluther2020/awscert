@@ -18,7 +18,7 @@ I created this site to provide one comprehensive place for everything AWS Certif
 **John David Luther**
 ## My Certification Status (as of January 2022)
 1. [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
-   * See accompanied blog - [The TensorFlow Developer Certificate Exam — Zero to Certified — A Firsthand Experience](https://medium.com/@jdluther2020/the-tensorflow-developer-certificate-exam-zero-to-certified-a-firsthand-experience-2e18a13de933)
+   * See the accompanied blog - [The TensorFlow Developer Certificate Exam — Zero to Certified — A Firsthand Experience](https://medium.com/@jdluther2020/the-tensorflow-developer-certificate-exam-zero-to-certified-a-firsthand-experience-2e18a13de933)
 2. [AWS Certified Advanced Networking – Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
 3. [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 4. [AWS Certified DevOps Engineer – Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
